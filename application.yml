@@ -1,12 +1,3 @@
-spring:
-  application:
-    name: USER-SERVICE
-  datasource:
-    url: jdbc:mysql://localhost:3306/microservices
-    username: root
-    password: Ashu@123
-    driver-class-name: com.mysql.cj.jdbc.Driver
-
 eureka:
   instance:
     prefer-ip-address: true
